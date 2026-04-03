@@ -218,7 +218,7 @@ p {
 }
 
 .article-content code {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   border-radius: var(--border-radius-small);
   padding: 0.2em 0.4em;
 }
