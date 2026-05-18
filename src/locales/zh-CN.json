@@ -274,7 +274,9 @@
     "skip_mark_all_read_confirmation_label": "跳过全部标为已读的确认",
     "skip_mark_all_read_confirmation_description": "点击全部标为已读时不显示确认对话框",
     "mark_all_read_jump_to_next_label": "标记已读后自动跳转下一个未读",
-    "mark_all_read_jump_to_next_description": "全部标为已读后自动跳转到下一个含有未读文章的订阅源或分类"
+    "mark_all_read_jump_to_next_description": "全部标为已读后自动跳转到下一个含有未读文章的订阅源或分类",
+    "check_for_updates_label": "检查更新",
+    "check_for_updates_description": "当 GitHub 上有新版本时显示通知"
   },
   "appearance": {
     "theme_color_label": "主题颜色",
@@ -291,6 +293,8 @@
     "show_estimated_reading_time_description": "在文章卡片中显示预计阅读时间",
     "show_feed_icon_label": "显示订阅源图标",
     "show_feed_icon_description": "在订阅源列表和文章卡片中显示订阅源图标",
+    "summary_lines_label": "摘要行数",
+    "summary_lines_description": "文章预览显示的行数（0 表示隐藏）",
     "lightbox_animation_label": "图片浏览器动画",
     "lightbox_animation_description": "启用图片切换滑动动画",
     "language_label": "语言",

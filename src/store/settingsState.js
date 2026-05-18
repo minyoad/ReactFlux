@@ -4,6 +4,7 @@ import { getBrowserLanguage } from "@/utils/locales"
 
 const defaultValue = {
   articleWidth: 75,
+  checkForUpdates: false,
   compactSidebarGroups: true,
   coverDisplayMode: "auto",
   edgeToEdgeImages: false,
@@ -22,6 +23,7 @@ const defaultValue = {
   pageSize: 100,
   removeDuplicates: "none",
   showDetailedRelativeTime: false,
+  summaryLines: 4,
   showEstimatedReadingTime: false,
   showFeedIcon: true,
   showHiddenFeeds: false,

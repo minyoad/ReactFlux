@@ -274,7 +274,9 @@
     "skip_mark_all_read_confirmation_label": "Ignorer la confirmation pour tout marquer comme lu",
     "skip_mark_all_read_confirmation_description": "Marquer tous les articles comme lus sans afficher de boîte de dialogue de confirmation",
     "mark_all_read_jump_to_next_label": "Passer au suivant non lu après tout marquer comme lu",
-    "mark_all_read_jump_to_next_description": "Naviguer automatiquement vers le flux ou la catégorie suivante contenant des articles non lus après avoir tout marqué comme lu"
+    "mark_all_read_jump_to_next_description": "Naviguer automatiquement vers le flux ou la catégorie suivante contenant des articles non lus après avoir tout marqué comme lu",
+    "check_for_updates_label": "Rechercher des mises à jour",
+    "check_for_updates_description": "Afficher une notification lorsqu'une nouvelle version est disponible sur GitHub"
   },
   "appearance": {
     "theme_color_label": "Couleur du thème",
@@ -291,6 +293,8 @@
     "show_estimated_reading_time_description": "Afficher le temps de lecture estimé dans la carte d'article",
     "show_feed_icon_label": "Afficher l'icône du flux",
     "show_feed_icon_description": "Afficher l'icône du flux dans la liste des flux et la carte d'article",
+    "summary_lines_label": "Lignes de résumé",
+    "summary_lines_description": "Nombre de lignes à afficher dans l'aperçu de l'article (0 pour masquer)",
     "lightbox_animation_label": "Animation de la lightbox",
     "lightbox_animation_description": "Activer les animations de glissement pour le changement d'images",
     "language_label": "Langue",

@@ -274,7 +274,9 @@
     "skip_mark_all_read_confirmation_label": "Bestätigung beim Alles-als-gelesen-Markieren überspringen",
     "skip_mark_all_read_confirmation_description": "Alle Artikel ohne Bestätigungsdialog als gelesen markieren",
     "mark_all_read_jump_to_next_label": "Nach Alles-als-gelesen-Markieren zum nächsten Ungelesenen springen",
-    "mark_all_read_jump_to_next_description": "Nach dem Markieren aller Artikel als gelesen automatisch zum nächsten Feed oder zur nächsten Kategorie mit ungelesenen Artikeln navigieren"
+    "mark_all_read_jump_to_next_description": "Nach dem Markieren aller Artikel als gelesen automatisch zum nächsten Feed oder zur nächsten Kategorie mit ungelesenen Artikeln navigieren",
+    "check_for_updates_label": "Nach Updates suchen",
+    "check_for_updates_description": "Benachrichtigung anzeigen, wenn eine neue Version auf GitHub verfügbar ist"
   },
   "appearance": {
     "theme_color_label": "Farbthema",
@@ -291,6 +293,8 @@
     "show_estimated_reading_time_description": "Geschätzte Lesedauer in Artikelkarte anzeigen",
     "show_feed_icon_label": "Abonnementsymbol anzeigen",
     "show_feed_icon_description": "Symbol des jeweiligen Abonnements in Abonnementliste und Artikelkarte anzeigen",
+    "summary_lines_label": "Zusammenfassungszeilen",
+    "summary_lines_description": "Anzahl der Zeilen in Artikelvorschau (0 zum Ausblenden)",
     "lightbox_animation_label": "Lightbox-Animation",
     "lightbox_animation_description": "Gleitanimationen für Bildwechsel aktivieren",
     "language_label": "Sprache",
